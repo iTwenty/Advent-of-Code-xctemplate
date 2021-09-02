@@ -30,6 +30,8 @@
             <dict>
                 <key>SWIFT_VERSION</key>
                 <string>5.0</string>
+				<key>SWIFT_OPTIMIZATION_LEVEL</key>
+				<string>-Onone</string>
             </dict>
 			<key>Dependencies</key>
 			<array>
